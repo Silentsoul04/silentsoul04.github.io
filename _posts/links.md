@@ -22,8 +22,6 @@ DevOpsTV
 
 {% raw %}
 
-
-
 # Security and DevSecOps. Container Security
 - [Introduction](#introduction)
 - [Kubernetes Threat Modelling](#kubernetes-threat-modelling)
@@ -138,3 +136,5 @@ DevOpsTV
  
 ## Kubernetes Network Policies
 - [medium.com: K8s Network Policies Demystified and Simplified 🌟](https://medium.com/swlh/k8s-network-policies-demystified-and-simplified-18f5ea9848e2)
+
+{% endraw %}
