@@ -1,3 +1,23 @@
+
+---
+
+layout: post
+
+title: "DevOps sites"
+
+categories: devops
+
+tags: devops
+
+author: Silentsoul
+
+---
+
+* content
+
+{:toc}
+
+
 # Security and DevSecOps. Container Security
 - [Introduction](#introduction)
 - [Kubernetes Threat Modelling](#kubernetes-threat-modelling)
